@@ -171,6 +171,9 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
 
 
 @media (max-width: 380px) {
+    .main_slider_content {
+        padding: 120px 0px 200px 0px;
+    }
     .main_slider .main_slider_content h1 {
         font-size: 5rem;
 
@@ -229,6 +232,9 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
     }
 
 
-
+    .main_menu_bg a.navbar-brand.our_logo {
+        top: -26px;
+        width: 50%;
+    }
 
 }
