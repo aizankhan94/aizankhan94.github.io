@@ -1,0 +1,234 @@
+/*
+Author: XpeedStudio;
+Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
+*/
+
+@media (min-width:769px) and (max-width:991px) {
+    .portfolio_images_overlay {
+        padding: 0px;
+    }
+
+    body {
+        font-size: 95%;
+    }
+
+    h1 {
+        font-size: 90%;
+    }
+
+    .single_pakeg_text ul li {
+        background: url(../images/pkli.png) no-repeat left center;
+        padding: 5px 0px 5px 60px;
+        margin-top: 15px;
+    }
+
+    .single_monail_apps_text {
+        margin-top: 40px;
+    }
+
+    .main_mobail_apps_content img {
+        text-align: right;
+    }
+
+    .single_monail_apps_text a {
+        margin-right: 5px;
+    }
+
+    .main_menu_bg a.navbar-brand.our_logo {
+        top: -40px;
+        width: 40%;
+    }
+
+    .menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+        top: -16px;
+        width: 25%;
+    }
+
+    .wedding {
+        display: inline-block;
+        margin-right: 10rem;
+        margin-bottom: 3rem;
+        color: #fff;
+        width: 20%;
+        font-style: italic;
+
+    }
+
+    .single_abouts_text {
+        margin-top: 5rem;
+    }
+
+
+
+
+    .giftimg {
+        height: 100px !important;
+        width: 600px !important;
+    }
+
+
+
+}
+
+
+
+
+@media (max-width:768px) {
+
+    .main_slider .main_slider_content h1 {
+        font-size: 6.2rem;
+
+    }
+
+    .main_menu_bg a.navbar-brand.our_logo {
+        top: -30px;
+        width: 35%;
+    }
+
+    .single_monail_apps_text {
+        margin-top: 40px;
+    }
+
+    .main_mobail_apps_content img {
+        text-align: right;
+    }
+
+    .menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+        top: -26px;
+        width: 35%;
+    }
+
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+
+    .navbar-default .navbar-toggle:hover,
+    .navbar-default .navbar-toggle:focus {
+        background-color: #E7A331;
+    }
+
+    .navbar-default .navbar-toggle {
+        border-color: #fff;
+    }
+
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        border-color: transparent;
+        border: 0px;
+        background: rgba(0, 0, 0, .45);
+        margin-top: 14px;
+    }
+
+    .wedding {
+        display: inline-block;
+        margin-right: 10rem;
+        margin-bottom: 3rem;
+        color: #fff;
+        width: 20%;
+        font-style: italic;
+
+    }
+
+
+
+
+    .giftimg {
+        height: 100px !important;
+        width: 600px !important;
+    }
+
+
+
+}
+
+/* 
+@media screen (min-width:320px) and (max-width:480px){
+
+
+
+.header_top_menu .call_us_text {
+	display:none !important;
+}
+
+.main_menu_bg a.navbar-brand.our_logo{
+    top: -78px;
+    width: 35%;
+}
+	
+.single_monail_apps_text {
+    margin-top: 40px;
+}
+.main_mobail_apps_content img{
+    text-align: right;
+}
+ .menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -16px;
+    width: 100%;
+} 
+
+} */
+
+
+
+@media (max-width: 380px) {
+    .main_slider .main_slider_content h1 {
+        font-size: 5rem;
+
+    }
+
+    .single_abouts_text {
+        margin-top: 2rem;
+        text-align: center;
+    }
+
+    .single_features_text {
+        text-align: center;
+    }
+
+
+
+    .main_slider p {
+        position: relative;
+        bottom: 50px;
+    }
+
+    .menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+        top: -10px;
+        width: 50%;
+    }
+
+
+    .our_logo {
+        top: -12;
+    }
+
+
+    .header_top_menu .call_us_text {
+        display: none !important;
+    }
+
+    #gift h1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .wedding {
+        display: inline-block;
+        margin-right: 10rem;
+        margin-bottom: 3rem;
+        color: #fff;
+        width: 30%;
+        font-style: italic;
+
+    }
+
+
+    .giftimg {
+        height: 100px !important;
+        width: 600px !important;
+    }
+
+
+
+
+}
